@@ -3,8 +3,10 @@ from __future__ import annotations
 import os
 import uuid
 import shutil
+
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
+from intergrations.next_callback import notify_next
 
 router = APIRouter()
 
@@ -14,31 +16,33 @@ ASSET_TEST_SCORE = os.path.abspath(
 )
 
 class StubRequest(BaseModel):
-    audio_path: str  # Next.js에서 넘어오는 음원 경로(지금은 사용 안 함)
+    jobId: str
+    inputPath: str  # Next.js에서 넘어오는 음원 경로(지금은 사용 안 함)
+    callbackUrl: str
+    # callbackToken: str
 
 class StubResponse(BaseModel):
     job_id: str
-    received_audio_path: str
-    score_path: str  # 로컬 "스토리지" 내 저장 경로
+    score_key: str
 
 def ensure_dir(path: str) -> None:
     os.makedirs(path, exist_ok=True)
 
 @router.post("/stub/submit", response_model=StubResponse)
-def submit_stub(req: StubRequest):
+async def submit_stub(req: StubRequest):
     storage_root = os.getenv("LOCAL_STORAGE_ROOT")
+    
     if not storage_root:
         raise HTTPException(status_code=500, detail="LOCAL_STORAGE_ROOT is not set in env")
-
+    
     if not os.path.exists(ASSET_TEST_SCORE):
         raise HTTPException(status_code=500, detail=f"Missing asset file: {ASSET_TEST_SCORE}")
-
+    
     job_id = str(uuid.uuid4())
 
-    # S3의 key 느낌으로: input/{job_id}/score.pdf
-    dest_dir = os.path.join(storage_root, "input", job_id)
+    # S3의 key 느낌으로: output/{job_id}/score.pdf
+    dest_dir = os.path.join(storage_root, "output", job_id)
     ensure_dir(dest_dir)
-
     dest_path = os.path.join(dest_dir, "score.pdf")
 
     try:
@@ -46,8 +50,15 @@ def submit_stub(req: StubRequest):
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Failed to copy test score: {e}")
 
+    score_key = f"output/{job_id}/score.pdf"
+
+    await notify_next(job_id, req.callbackUrl, {
+        "status": "completed",
+        "outputPath": score_key,
+        "error": None,
+    })
+
     return StubResponse(
         job_id=job_id,
-        received_audio_path=req.audio_path,
-        score_path=dest_path,
+        score_key=score_key
     )

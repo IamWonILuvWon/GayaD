@@ -3,6 +3,7 @@
 import { Upload, Youtube } from "lucide-react";
 import { useState } from "react";
 import { useRouter } from "next/navigation";
+import { uploadWithProgress } from "@/src/features/upload/uploadWithProgress";
 import FileUploader from "./components/ui/FileUploader";
 import YoutubeLinkUploader from "./components/ui/YoutubeLinkUploader";
 
@@ -11,6 +12,9 @@ export default function Home() {
   const [youtubeLink, setYoutubeLink] = useState("");
   const [select, setSelect] = useState(true);
   const [isConverting, setIsConverting] = useState(false);
+  const [progress, setProgress] = useState<number | null>(null);
+  const [stage, setStage] = useState<"idle" | "creatingJob" | "uploading">("idle");
+
 
   const canConvert = selectedFile || youtubeLink.trim() !== "";
 
@@ -20,39 +24,55 @@ export default function Home() {
     if (!canConvert) return;
     setIsConverting(true);
     try {
-      let inputPath = "";
+      setProgress(null);
+      setStage("creatingJob");
 
       if (selectedFile) {
-        // 파일을 서버로 업로드 (바디는 ArrayBuffer)
-        const arrayBuffer = await selectedFile.arrayBuffer();
-        const uploadRes = await fetch(
-          `/api/jobs/upload?filename=${encodeURIComponent(selectedFile.name)}`,
-          {
-            method: "POST",
-            headers: { "Content-Type": "application/octet-stream" },
-            body: arrayBuffer,
-          }
-        );
-        if (!uploadRes.ok) throw new Error("파일 업로드 실패");
-        const uploadData = await uploadRes.json();
-        inputPath = uploadData.inputPath;
+        // 먼저 job 생성 (파일 업로드는 뒤에서 비동기 처리)
+        const createRes = await fetch("/api/jobs", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ filename: selectedFile.name }),
+        });
+
+        if (!createRes.ok) {
+          const e2 = await createRes.json().catch(() => ({}));
+          throw new Error(e2?.error || `작업 생성 실패: ${createRes.status}`);
+        }
+
+        const { jobId } = (await createRes.json()) as { jobId: string };
+
+        // 업로드는 비동기로 시작 (실패 시 서버에 실패 상태를 보냄)
+        setStage("uploading");
+        uploadWithProgress({ file: selectedFile, jobId, onProgress: (p) => setProgress(p) })
+          .then(() => setProgress(100))
+          .catch(async (err) => {
+            try {
+              await fetch(`/api/jobs/${jobId}/callback`, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ status: "failed", error: err instanceof Error ? err.message : String(err) }),
+              });
+            } catch {}
+            alert("업로드에 실패했습니다. 나중에 다시 시도해주세요.");
+          });
+
+        // 사용자는 즉시 job 페이지로 이동
+        router.push(`/job/${jobId}`);
+      } else if (youtubeLink.trim() !== "") {
       } else if (youtubeLink.trim() !== "") {
         // 유튜브 링크는 식별자 형식으로 전달
-        inputPath = `youtube:${youtubeLink.trim()}`;
+        const inputPath = `youtube:${youtubeLink.trim()}`;
+        const jobRes = await fetch("/api/jobs", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ inputPath }),
+        });
+        if (!jobRes.ok) throw new Error("작업 생성 실패");
+        const { jobId } = (await jobRes.json()) as { jobId: string };
+        router.push(`/job/${jobId}`);
       }
-
-      const jobRes = await fetch("/api/jobs", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ inputPath }),
-      });
-      if (!jobRes.ok) throw new Error("작업 생성 실패");
-
-      const job = await jobRes.json();
-      // 작업 페이지로 이동
-      router.push(`/job/${job.id}`);
     } catch (err) {
-      console.error(err);
       alert(`오류가 발생했습니다: ${err instanceof Error ? err.message : String(err)}`);
     } finally {
       setIsConverting(false);
