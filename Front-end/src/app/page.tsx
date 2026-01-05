@@ -12,8 +12,6 @@ export default function Home() {
   const [youtubeLink, setYoutubeLink] = useState("");
   const [select, setSelect] = useState(true);
   const [isConverting, setIsConverting] = useState(false);
-  const [progress, setProgress] = useState<number | null>(null);
-  const [stage, setStage] = useState<"idle" | "creatingJob" | "uploading">("idle");
 
 
   const canConvert = selectedFile || youtubeLink.trim() !== "";
@@ -24,9 +22,6 @@ export default function Home() {
     if (!canConvert) return;
     setIsConverting(true);
     try {
-      setProgress(null);
-      setStage("creatingJob");
-
       if (selectedFile) {
         // 먼저 job 생성 (파일 업로드는 뒤에서 비동기 처리)
         const createRes = await fetch("/api/jobs", {
@@ -43,9 +38,7 @@ export default function Home() {
         const { jobId } = (await createRes.json()) as { jobId: string };
 
         // 업로드는 비동기로 시작 (실패 시 서버에 실패 상태를 보냄)
-        setStage("uploading");
-        uploadWithProgress({ file: selectedFile, jobId, onProgress: (p) => setProgress(p) })
-          .then(() => setProgress(100))
+        uploadWithProgress({ file: selectedFile, jobId})
           .catch(async (err) => {
             try {
               await fetch(`/api/jobs/${jobId}/callback`, {

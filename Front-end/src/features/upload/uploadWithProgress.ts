@@ -1,9 +1,8 @@
 export function uploadWithProgress(opts: {
   file: File;
-  onProgress?: (percent: number) => void;
   jobId?: string;
 }): Promise<{ inputPath: string }> {
-  const { file, onProgress, jobId } = opts;
+  const { file, jobId } = opts;
 
   return new Promise((resolve, reject) => {
     const xhr = new XMLHttpRequest();
@@ -17,7 +16,6 @@ export function uploadWithProgress(opts: {
     xhr.upload.onprogress = (e) => {
       if (!e.lengthComputable) return;
       const percent = Math.round((e.loaded / e.total) * 100);
-      onProgress?.(percent);
       try { bc?.postMessage({ jobId, percent }); } catch {}
     };
 
