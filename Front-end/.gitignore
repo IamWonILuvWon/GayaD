@@ -1,0 +1,98 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+############################
+# Node / Package Manager
+############################
+/node_modules/
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+############################
+# Next.js / Build artifacts
+############################
+/.next/
+/.next/cache/
+/out/
+/.vercel
+/.vercel/output/
+
+# build / dist
+/build/
+/dist/
+/.parcel-cache/
+/.turbo/
+
+############################
+# Logs & coverage
+############################
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+/coverage/
+/.nyc_output/
+
+############################
+# Environment & secrets
+############################
+# Ignore local envs but keep example files
+.env.local
+.env.*.local
+!.env.example
+.env*
+
+# common secret file types
+*.pem
+*.key
+*.crt
+
+############################
+# OS and editor files
+############################
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors / IDEs
+/.vscode/
+/.idea/
+*.iml
+
+# Vim swap
+*.swp
+*.swo
+
+# Misc temp files
+*~
+*.tmp
+
+############################
+# TypeScript
+############################
+*.tsbuildinfo
+next-env.d.ts
+
+############################
+# Project-specific
+############################
+# ignore generated prisma client if present
+/app/generated/prisma
+node_modules/.prisma
+
+# storage: ignore user-uploaded/generated files but keep optional .gitkeep placeholders
+/storage/**
+!/storage/.gitkeep
+!/storage/**/.gitkeep
+
+# Python virtual envs (for AI folder)
+venv/
+.venv/
+__pycache__/
+
+# Keep other footprints minimal
+.prisma
