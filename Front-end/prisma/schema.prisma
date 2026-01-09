@@ -17,6 +17,7 @@ model Job {
   status    String   @default("queued") // queued|processing|completed|failed
   inputPath String
   outputPath String?
+  error     String?
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 }
