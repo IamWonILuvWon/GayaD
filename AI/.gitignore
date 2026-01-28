@@ -2,3 +2,7 @@
 *.wav
 *.json
 *.zip
+*.musicxml
+*.pyc
+*.txt
+__pycache__/
