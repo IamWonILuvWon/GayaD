@@ -1,0 +1,926 @@
+{
+    "0": {
+        "gayageum_id": "BP_CR2_01854",
+        "n_frames": 178965,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01854.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01854_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01854_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01854.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "1": {
+        "gayageum_id": "BP_CR2_01855",
+        "n_frames": 86997,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01855.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01855_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01855_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01855.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "2": {
+        "gayageum_id": "BP_CR2_01856",
+        "n_frames": 180697,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01856.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01856_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01856_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01856.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "3": {
+        "gayageum_id": "BP_CR2_01858",
+        "n_frames": 116725,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01858.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01858_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01858_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01858.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "4": {
+        "gayageum_id": "BP_CR2_01859",
+        "n_frames": 168329,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01859.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01859_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01859_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01859.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "5": {
+        "gayageum_id": "BP_CR2_01860",
+        "n_frames": 307166,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01860.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01860_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01860_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01860.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "6": {
+        "gayageum_id": "BP_CR2_01861",
+        "n_frames": 321984,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01861.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01861_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01861_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01861.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "7": {
+        "gayageum_id": "BP_CR2_01862",
+        "n_frames": 164602,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01862.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01862_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01862_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01862.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "8": {
+        "gayageum_id": "BP_CR2_01863",
+        "n_frames": 117356,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01863.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01863_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01863_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01863.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "9": {
+        "gayageum_id": "BP_CR2_01864",
+        "n_frames": 299493,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01864.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01864_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01864_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01864.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "10": {
+        "gayageum_id": "BP_CR2_01865",
+        "n_frames": 153126,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01865.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01865_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01865_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01865.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "11": {
+        "gayageum_id": "BP_CR2_01866",
+        "n_frames": 62664,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01866.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01866_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01866_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01866.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "12": {
+        "gayageum_id": "BP_CR2_01867",
+        "n_frames": 86529,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01867.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01867_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01867_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01867.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "13": {
+        "gayageum_id": "BP_CR2_01868",
+        "n_frames": 318123,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01868.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01868_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01868_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01868.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "14": {
+        "gayageum_id": "BP_CR2_01870",
+        "n_frames": 244551,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01870.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01870_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01870_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01870.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "15": {
+        "gayageum_id": "BP_CR2_01871",
+        "n_frames": 336516,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01871.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01871_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01871_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01871.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "16": {
+        "gayageum_id": "BP_CR2_01872",
+        "n_frames": 94297,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01872.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01872_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01872_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01872.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "17": {
+        "gayageum_id": "BP_CR2_01873",
+        "n_frames": 67355,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01873.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01873_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01873_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01873.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "18": {
+        "gayageum_id": "BP_CR2_01874",
+        "n_frames": 359054,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01874.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01874_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01874_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01874.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "19": {
+        "gayageum_id": "BP_CR2_01875",
+        "n_frames": 360090,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01875.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01875_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01875_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01875.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "20": {
+        "gayageum_id": "BP_CR2_01877",
+        "n_frames": 277792,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01877.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01877_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01877_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01877.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "21": {
+        "gayageum_id": "BP_CR2_01878",
+        "n_frames": 207502,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01878.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01878_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01878_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01878.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "22": {
+        "gayageum_id": "BP_CR2_01879",
+        "n_frames": 228547,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01879.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01879_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01879_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01879.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "23": {
+        "gayageum_id": "BP_CR2_01880",
+        "n_frames": 346821,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01880.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01880_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01880_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01880.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "24": {
+        "gayageum_id": "BP_CR2_01881",
+        "n_frames": 141262,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01881.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01881_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01881_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01881.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "25": {
+        "gayageum_id": "BP_CR2_01883",
+        "n_frames": 314414,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01883.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01883_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01883_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01883.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "26": {
+        "gayageum_id": "BP_CR2_01884",
+        "n_frames": 314414,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01884.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01884_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01884_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01884.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "27": {
+        "gayageum_id": "BP_CR2_01885",
+        "n_frames": 175043,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01885.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01885_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01885_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01885.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "28": {
+        "gayageum_id": "BP_CR2_01887",
+        "n_frames": 158777,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01887.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01887_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01887_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01887.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "29": {
+        "gayageum_id": "BP_CR2_01888",
+        "n_frames": 128885,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01888.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01888_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01888_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01888.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "30": {
+        "gayageum_id": "BP_CR2_01889",
+        "n_frames": 231737,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01889.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01889_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01889_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01889.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "31": {
+        "gayageum_id": "BP_CR2_01890",
+        "n_frames": 186097,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01890.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01890_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01890_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01890.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "32": {
+        "gayageum_id": "BP_CR2_01891",
+        "n_frames": 351944,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01891.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01891_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01891_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01891.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "33": {
+        "gayageum_id": "BP_CR2_01892",
+        "n_frames": 225951,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01892.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01892_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01892_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_01892.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "34": {
+        "gayageum_id": "BP_CR2_02261",
+        "n_frames": 121121,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02261.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02261_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02261_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02261.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "35": {
+        "gayageum_id": "BP_CR2_02262",
+        "n_frames": 119488,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02262.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02262_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02262_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02262.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "36": {
+        "gayageum_id": "BP_CR2_02263",
+        "n_frames": 116006,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02263.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02263_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02263_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02263.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "37": {
+        "gayageum_id": "BP_CR2_02264",
+        "n_frames": 116216,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02264.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02264_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02264_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02264.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "38": {
+        "gayageum_id": "BP_CR2_02265",
+        "n_frames": 94770,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02265.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02265_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02265_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02265.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "39": {
+        "gayageum_id": "BP_CR2_02266",
+        "n_frames": 184612,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02266.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02266_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02266_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02266.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "40": {
+        "gayageum_id": "BP_CR2_02267",
+        "n_frames": 98965,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02267.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02267_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02267_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02267.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "41": {
+        "gayageum_id": "BP_CR2_02268",
+        "n_frames": 103889,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02268.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02268_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02268_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02268.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "42": {
+        "gayageum_id": "BP_CR2_02269",
+        "n_frames": 92459,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02269.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02269_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02269_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02269.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "43": {
+        "gayageum_id": "BP_CR2_02270",
+        "n_frames": 98911,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02270.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02270_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02270_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02270.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "44": {
+        "gayageum_id": "BP_CR2_02271",
+        "n_frames": 87638,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02271.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02271_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02271_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02271.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "45": {
+        "gayageum_id": "BP_CR2_02272",
+        "n_frames": 110612,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02272.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02272_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02272_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02272.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "46": {
+        "gayageum_id": "BP_CR2_02291",
+        "n_frames": 106051,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02291.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02291_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02291_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02291.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "47": {
+        "gayageum_id": "BP_CR2_02292",
+        "n_frames": 101961,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02292.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02292_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02292_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02292.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "48": {
+        "gayageum_id": "BP_CR2_02293",
+        "n_frames": 128343,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02293.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02293_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02293_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02293.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "49": {
+        "gayageum_id": "BP_CR2_02294",
+        "n_frames": 74517,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02294.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02294_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02294_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02294.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "50": {
+        "gayageum_id": "BP_CR2_02295",
+        "n_frames": 88438,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02295.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02295_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02295_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02295.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "51": {
+        "gayageum_id": "BP_CR2_02296",
+        "n_frames": 112052,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02296.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02296_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02296_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02296.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "52": {
+        "gayageum_id": "BP_CR2_02316",
+        "n_frames": 128753,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02316.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02316_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02316_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02316.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "53": {
+        "gayageum_id": "BP_CR2_02317",
+        "n_frames": 141859,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02317.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02317_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02317_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02317.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "54": {
+        "gayageum_id": "BP_CR2_02318",
+        "n_frames": 176175,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02318.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02318_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02318_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02318.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "55": {
+        "gayageum_id": "BP_CR2_02319",
+        "n_frames": 109599,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02319.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02319_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02319_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02319.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "56": {
+        "gayageum_id": "BP_CR2_02320",
+        "n_frames": 175312,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02320.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02320_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02320_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02320.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "57": {
+        "gayageum_id": "BP_CR2_02321",
+        "n_frames": 150079,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02321.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02321_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02321_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02321.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "58": {
+        "gayageum_id": "BP_CR2_02322",
+        "n_frames": 128153,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02322.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02322_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02322_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02322.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "59": {
+        "gayageum_id": "BP_CR2_02323",
+        "n_frames": 170632,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02323.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02323_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02323_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02323.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "60": {
+        "gayageum_id": "BP_CR2_02334",
+        "n_frames": 68806,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02334.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02334_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02334_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02334.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "61": {
+        "gayageum_id": "BP_CR2_02335",
+        "n_frames": 137693,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02335.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02335_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02335_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02335.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "62": {
+        "gayageum_id": "BP_CR2_02336",
+        "n_frames": 132701,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02336.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02336_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02336_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02336.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "63": {
+        "gayageum_id": "BP_CR2_02337",
+        "n_frames": 134728,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02337.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02337_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02337_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02337.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "64": {
+        "gayageum_id": "BP_CR2_02338",
+        "n_frames": 122349,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02338.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02338_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02338_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110b\u1172\u1109\u1161\u1100\u116e\u11a8\u110b\u1161\u11a8_R_\u110e\u1161\u11bc\u110c\u1161\u11a8\u1100\u116e\u11a8\u110b\u1161\u11a8/BP_CR2_02338.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    },
+    "65": {
+        "gayageum_id": "AP_F10_07871",
+        "n_frames": 110005,
+        "mix_audio_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110c\u1165\u11ab\u1110\u1169\u11bc\u1100\u116e\u11a8\u110b\u1161\u11a8_F_\u1106\u1175\u11ab\u1109\u1169\u11a8\u110b\u1161\u11a8/AP_F10_07871.wav",
+        "notes_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110c\u1165\u11ab\u1110\u1169\u11bc\u1100\u116e\u11a8\u110b\u1161\u11a8_F_\u1106\u1175\u11ab\u1109\u1169\u11a8\u110b\u1161\u11a8/AP_F10_07871_notes.npy",
+        "note_events_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110c\u1165\u11ab\u1110\u1169\u11bc\u1100\u116e\u11a8\u110b\u1161\u11a8_F_\u1106\u1175\u11ab\u1109\u1169\u11a8\u110b\u1161\u11a8/AP_F10_07871_note_events.npy",
+        "midi_file": "/workspace/code/YourMT3/gayageum_yourmt3_16k/validation/Validation/02.\u1105\u1161\u1107\u1166\u11af\u1105\u1175\u11bc\u1103\u1166\u110b\u1175\u1110\u1165/VL_\u110c\u1165\u11ab\u1110\u1169\u11bc\u1100\u116e\u11a8\u110b\u1161\u11a8_F_\u1106\u1175\u11ab\u1109\u1169\u11a8\u110b\u1161\u11a8/AP_F10_07871.mid",
+        "program": [
+            107
+        ],
+        "is_drum": [
+            0
+        ]
+    }
+}

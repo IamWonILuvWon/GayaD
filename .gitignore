@@ -1,0 +1,55 @@
+# datasets
+YourMT3/Gayageum_dataset/
+YourMT3/data/
+
+# checkpoints & lightning logs
+**/checkpoints/
+**/lightning_logs*/
+**/logs/
+
+# common
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ---- exclude datasets / artifacts ----
+YourMT3/dataset_gaya/*.zip
+YourMT3/dataset_gaya/**/*.zip
+
+# preprocessed dataset folder (keep manifest.json if you want)
+YourMT3/gayageum_yourmt3_16k/train/
+YourMT3/gayageum_yourmt3_16k/valid/
+YourMT3/gayageum_yourmt3_16k/val/
+YourMT3/gayageum_yourmt3_16k/test/
+
+# (optional) any wav/flac to be safe
+**/*.wav
+**/*.flac
+
+# ---- audio / midi (exclude) ----
+**/*.wav
+**/*.WAV
+**/*.flac
+**/*.FLAC
+**/*.mp3
+**/*.MP3
+**/*.ogg
+**/*.OGG
+
+**/*.mid
+**/*.MID
+**/*.midi
+**/*.MIDI
+
+# often paired artifacts
+**/*.zip
+**/*.tar
+**/*.tar.gz
+**/*.tgz
+
+# numpy preprocessed data
+**/*.npy
+
+# gayageum processed dataset
+YourMT3/gayageum_yourmt3_16k/
+YourMT3/amt/src/extras/auth2/token_data.json
