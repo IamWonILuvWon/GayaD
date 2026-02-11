@@ -2,6 +2,9 @@
 
 import { useEffect, useRef, useState } from "react";
 import { Loader2, CheckCircle, XCircle } from "lucide-react";
+import dynamic from "next/dynamic";
+
+const MusicXmlViewer = dynamic(() => import("../../components/ui/MusicXmlViewer.client"), { ssr: false });
 
 type JobStatusType = "queued" | "processing" | "completed" | "failed" | "uploading";
 
@@ -19,15 +22,7 @@ export default function JobStatus({ id }: { id: string }) {
   const [job, setJob] = useState<Job | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [uploadProgress, setUploadProgress] = useState<number | null>(null);
-  // PDF viewer state
-  const [pdfNumPages, setPdfNumPages] = useState<number | null>(null);
-  const [pdfCurrentPage, setPdfCurrentPage] = useState<number>(1);
-  const [pdfLoading, setPdfLoading] = useState(false);
-  const [pdfError, setPdfError] = useState<string | null>(null);
-  const canvasRef = useRef<HTMLCanvasElement | null>(null);
-
-  // ✅ pdfjs 모듈을 state/ref로 들고 있음(브라우저에서만 로드)
-  const pdfjsRef = useRef<typeof import("pdfjs-dist") | null>(null);
+  // Upload progress
 
   const fetchJob = async () => {
     try {
@@ -67,92 +62,7 @@ export default function JobStatus({ id }: { id: string }) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [id, job?.status]);
 
-  // ✅ pdfjs를 브라우저에서만 로드 + worker 설정
-  useEffect(() => {
-    let cancelled = false;
-
-    (async () => {
-      // window가 없으면(서버) 실행 X
-      if (typeof window === "undefined") return;
-
-      const pdfjsLib = await import("pdfjs-dist");
-      if (cancelled) return;
-
-      // worker 파일은 public에 있어야 함 (/public/pdf.worker.min.mjs)
-      pdfjsLib.GlobalWorkerOptions.workerSrc = "/pdf.worker.min.mjs";
-      pdfjsRef.current = pdfjsLib;
-    })();
-
-    return () => {
-      cancelled = true;
-    };
-  }, []);
-
-  // PDF 로드 및 렌더 (여기서 pdfjsRef 사용)
-  useEffect(() => {
-    let cancelled = false;
-
-    async function loadPdfAndRender() {
-      if (!job?.outputPath) return;
-      if (!job.outputPath.toLowerCase().endsWith(".pdf")) return;
-
-      const pdfjsLib = pdfjsRef.current;
-      if (!pdfjsLib) return; // pdfjs 로딩 전이면 대기
-
-      setPdfError(null);
-      setPdfLoading(true);
-
-      try {
-        const url = job.outputPath.startsWith("http")
-          ? job.outputPath
-          : `/api/results?path=${encodeURIComponent(job.outputPath)}`;
-
-        const res = await fetch(url);
-        if (!res.ok) throw new Error(`Failed to fetch pdf: ${res.status}`);
-        const buf = await res.arrayBuffer();
-
-        const pdf = await pdfjsLib.getDocument({ data: buf }).promise;
-        if (cancelled) return;
-
-        setPdfNumPages(pdf.numPages);
-
-        const current = Math.max(1, Math.min(pdf.numPages, pdfCurrentPage));
-        if (current !== pdfCurrentPage) setPdfCurrentPage(current);
-
-        const page = await pdf.getPage(current);
-        if (cancelled) return;
-
-        const viewport = page.getViewport({ scale: 1.5 });
-        const canvas = canvasRef.current;
-        if (!canvas) return;
-
-        canvas.width = viewport.width;
-        canvas.height = viewport.height;
-
-        const ctx = canvas.getContext("2d");
-        if (!ctx) return;
-
-        await page.render({ canvas, canvasContext: ctx, viewport }).promise;
-      } catch (err) {
-        setPdfError(err instanceof Error ? err.message : String(err));
-      } finally {
-        setPdfLoading(false);
-      }
-    }
-
-    loadPdfAndRender();
-
-    return () => {
-      cancelled = true;
-    };
-  }, [job?.outputPath, pdfCurrentPage]);
-
-  // outputPath 바뀌면 초기화
-  useEffect(() => {
-    setPdfNumPages(null);
-    setPdfCurrentPage(1);
-    setPdfError(null);
-  }, [job?.outputPath]);
+  // musicxml viewer will be rendered client-side in a separate component
 
   // BroadcastChannel 업로드 진행률 수신
   useEffect(() => {
@@ -232,41 +142,17 @@ export default function JobStatus({ id }: { id: string }) {
                 악보 다운로드
               </a>
 
-              {job.outputPath?.toLowerCase().endsWith(".pdf") ? (
+              {job.outputPath?.toLowerCase().endsWith(".musicxml") || job.outputPath?.toLowerCase().endsWith(".xml") ? (
                 <div className="mt-4">
-                  <p className="text-sm text-gray-700">PDF 미리보기:</p>
-
+                  <p className="text-sm text-gray-700">악보 미리보기 (MusicXML):</p>
                   <div className="mt-2 rounded border p-3 bg-gray-50">
-                    <div className="flex items-center gap-2 mb-2">
-                      <button
-                        className="px-3 py-1 rounded bg-gray-200 hover:bg-gray-300"
-                        onClick={() => setPdfCurrentPage((p) => Math.max(1, p - 1))}
-                        disabled={pdfCurrentPage <= 1}
-                      >
-                        이전
-                      </button>
-                      <button
-                        className="px-3 py-1 rounded bg-gray-200 hover:bg-gray-300"
-                        onClick={() =>
-                          setPdfCurrentPage((p) => (pdfNumPages ? Math.min(pdfNumPages, p + 1) : p + 1))
-                        }
-                        disabled={pdfNumPages ? pdfCurrentPage >= pdfNumPages : false}
-                      >
-                        다음
-                      </button>
-
-                      <div className="ml-auto text-sm text-gray-500">
-                        {pdfLoading ? "로딩 중…" : pdfNumPages ? `${pdfCurrentPage} / ${pdfNumPages}` : "-"}
-                      </div>
-                    </div>
-
-                    {pdfError ? (
-                      <div className="text-sm text-red-600">PDF 렌더링 오류: {pdfError}</div>
-                    ) : (
-                      <div className="w-full flex justify-center">
-                        <canvas ref={canvasRef} className="max-w-full" />
-                      </div>
-                    )}
+                    <MusicXmlViewer
+                      url={
+                        job.outputPath!.startsWith("http")
+                          ? job.outputPath!
+                          : `/api/results?path=${encodeURIComponent(job.outputPath!)}`
+                      }
+                    />
                   </div>
                 </div>
               ) : null}

@@ -15,7 +15,7 @@ export default function FileUploader({ selectedFile, setSelectedFile }: FileUplo
 
   const isAllowedFile = (file: File) => {
     const ext = file.name.split(".").pop()?.toLowerCase();
-    const allowedExt = ["mp3", "wav", "m4a"];
+    const allowedExt = ["mp3", "wav", "m4a", "midi"];
     const allowedMime = ["audio/mpeg", "audio/wav", "audio/x-wav", "audio/mp4", "audio/x-m4a"];
     return (ext && allowedExt.includes(ext)) || allowedMime.includes(file.type);
   };

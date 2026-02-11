@@ -20,6 +20,7 @@ export async function POST(req: Request) {
 
     const callbackUrl = `${process.env.APP_BASE_URL}/api/jobs/${job.id}/callback`;
 
+
     fetch(`${process.env.AI_BASE_URL}/api/stub/submit`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },

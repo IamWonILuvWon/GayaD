@@ -10,6 +10,7 @@ generator client {
 
 datasource db {
   provider = "postgresql"
+  url      = env("DATABASE_URL") // 이 부분을 추가하세요
 }
 
 model Job {

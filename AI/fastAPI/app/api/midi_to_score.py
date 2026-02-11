@@ -7,7 +7,7 @@ from typing import Optional, Tuple
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
 
-from midi_to_gayageum import (
+from lib.midi_to_gayageum import (
     parse_midi,
     select_best_track,
     extract_monophonic_events,
@@ -23,7 +23,7 @@ router = APIRouter()
 
 class MidiJobRequest(BaseModel):
     jobId: str
-    inputPath: str  # LOCAL_STORAGE_ROOT 기준 MIDI 파일 경로 (예: "input/xxx/file.mid")
+    inputPath: str  # LOCAL_STORAGE_ROOT 기준 MIDI 파일 경로 (예: "input/xxx/fie.mid")
     callbackUrl: str
 
 
